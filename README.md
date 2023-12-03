@@ -5,6 +5,7 @@
 - [About](#about)
 - [Installation](#installation)
 - [Usage](#usage)
+- [CRUD Endpoints](#crud-endpoints)
     - [Create a Drink](#create-a-drink)
     - [List All Drinks](#list-all-drinks)
     - [Update a Drink](#update-a-drink)
@@ -12,7 +13,7 @@
 
 ## About
 
-This project is a simple CRUD (Create, Read, Update, Delete) REST API built with Django and Django REST Framework. The
+This project is a simple CRUD REST API built with Django and Django REST Framework. The
 API manages a single entity, "drinks," which has properties for name and description.
 
 ## Installation
